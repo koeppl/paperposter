@@ -1,5 +1,6 @@
 *.pdf
 *.swp
+a0header.ps
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
